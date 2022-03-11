@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usages>
+    <usage>
+        <phrase>Division of Data Science</phrase>
+        <context>Veteran's Administration</context>
+        <year>1965</year>       
+        <comments>
+            <p>Part of the Department of Data Management.</p>    
+        </comments>
+        <keywords>
+            <kw>3D data</kw>
+            <kw>modeling</kw>
+            <kw>pattern recognition</kw>
+            <kw>machine learning</kw>
+            <kw>linguistic data</kw>
+            <kw>image data</kw>
+        </keywords>
+        <sources>
+            <source id="Appropriations 1965">
+                <citation>Appropriations, United States Congress House. 1965. Independent Offices Appropiations for 1966: 
+                    Hearings ... 89th Congress, 1st Session, Part 3.</citation>        
+                <extracts>
+                    <extract>
+                        <content>
+                            <div class='no-indent'>Data Science Division&mdash;</div> 
+                            <p>Conducts basic and applied research and development in advanced data management sciences and technology.</p> 
+                            <p><emph>Develops models</emph> of VA programs and operations to provide management the capability of simulating the effect of proposed courses of administrative action and to determine quickly and accurately the effect of proposed legislation on veterans and their beneficiaries.</p> 
+                            <p>Provides technical support, guidance, and training in <emph>the use of mathematical, statistical, and data-transmission techniques in the field of data management</emph>.</p> 
+                            <p>Maintains liaison with agencies and activities in the professional, scientific, and technical fields related to data-management research (U. S. C. H. Appropriations 1965: 73; emphases added).</p>                
+                        </content>
+                        <pages>73</pages>
+                        <note>emphases added</note>
+                    </extract>
+                </extracts>                
+            </source>            
+        </sources>
+    </usage>
+    <usage>
+        <phrase>data-processing scientist</phrase>
+        <context>NACA</context>
+        <year>1958</year>
+        <comments>
+            <p>Dooley.</p>
+        </comments>
+        <sources>
+            <source id="Appropriations 1958">    
+                <citation>
+                    Appropriations, United States Congress House. 1958. Second Supplemental Appropriation Bill: 1958, Hearings ... 85th Congress, 2d Session.                    
+                </citation>
+                <extracts>
+                    <extract>
+                        <content>
+                           <p>
+                                <emph>The data processing function is much more complex than the mere production line job of translating raw data into usable form.</emph> 
+                                Each new research project must be reviewed to determine how the data will be obtained, what type and volume of calculations are required, and what modifications must be made to the recording instruments and data-processing apparatus to meet the requirements. 
+                                <emph>It may even be necessary for the data-processing scientist to design and construct new equipment for a new type of problem.</emph>
+                                Some projects cannot be undertaken until the specific means of obtaining and handling the data have been worked out. 
+                                In some research areas, on-line service to a data processing center saves considerable time by allowing the project engineer to obtain a spot check on the computed results while the facility is in operation.
+                                This permits him to make an immediate change in the test conditions to obtain the results that he wants.
+                            </p>    
+                        </content>
+                        <pages>147</pages>
+                        <note>emphases added</note>
+                        <img src="images/VA-1965.png"/>
+                    </extract>
+                </extracts>
+            </source>
+        </sources>
+    </usage>
+    <usage>
+        <phrase>Data Sciences Laboratory</phrase>
+        <context>USAF Cambridge Research Laboratory</context>
+        <year>1963</year>
+        <sources>
+            <source>
+                <!-- Report 1 -->
+            </source>
+            <source>
+                <!-- Report 2 -->
+            </source>
+            <source>
+                <!-- Report 3 -->
+            </source>
+        </sources>
+    </usage>
+    <usage>
+        <phrase>Data Sciences Division</phrase>
+        <context>Dynalectron Corporation</context>
+    </usage>
+    <usage>
+        <phrase>Data Sciences Division</phrase>
+        <context>Technology Services Corporation</context>
+    </usage>
+    <usage>
+        <phrase>Data Sciences Division</phrase>
+        <context>URS Systems Corporation</context>
+        <date>1970</date>
+        <sources>
+            <source>
+                <citation>Computerworld. 1970. http://archive.org/details/computerworld4125unse13.</citation>
+                <extracts>
+                    <extract>
+                        <content>
+                            <p>Data Sciences Division Losses Revealed by URS</p>    
+                        </content>
+                        <pages>49</pages>
+                        <img src="images/computer-world-1970-49.png"/>                        
+                    </extract>
+                </extracts>
+            </source>
+        </sources>
+    </usage>
+</usages>
